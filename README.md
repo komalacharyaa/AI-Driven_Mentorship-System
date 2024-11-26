@@ -28,6 +28,10 @@ To get started, follow these steps:
 1. Setup: Clone the repository and install the necessary dependencies using the package manager of your choice.
 2. Configuration: Configure the database connection, authentication, and API keys in the appropriate configuration files.
 3. Install the dependencies for the Next.js app by running ```npm install``` in the terminal.
-4. Install the dependencies for the Flask server by running pip install -r requirements.txt in the terminal.
-5. Start the Flask server by moving to recommender file and running python app.py in the terminal
-6. Start the Next.js app by running npm run dev in the terminal.
+4. Install the dependencies for the Flask server by running ```pip install -r requirements.txt``` in the terminal.
+5. Start the Flask server by moving to recommender file and running ```python app.py``` in the terminal
+6. Start the Next.js app by running ```npm run dev``` in the terminal.
+
+Recommendation System Output:
+![image](https://github.com/komalacharyaa/AI-Driven_Mentorship-System/blob/master/MentorMind/WhatsApp%20Image%202024-04-21%20at%201.02.13%20PM-1.jpeg)
+
