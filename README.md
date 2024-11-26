@@ -34,4 +34,6 @@ To get started, follow these steps:
 
 Recommendation System Output:
 ![image](https://github.com/komalacharyaa/AI-Driven_Mentorship-System/blob/master/MentorMind/WhatsApp%20Image%202024-04-21%20at%201.02.13%20PM-1.jpeg)
+![image](https://github.com/komalacharyaa/AI-Driven_Mentorship-System/blob/master/MentorMind/WhatsApp%20Image%202024-04-21%20at%201.05.50%20PM.jpeg)
+![image](https://github.com/komalacharyaa/AI-Driven_Mentorship-System/blob/master/MentorMind/image.png)
 
