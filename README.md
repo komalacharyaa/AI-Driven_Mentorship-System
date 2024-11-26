@@ -27,7 +27,7 @@ To get started, follow these steps:
 
 1. Setup: Clone the repository and install the necessary dependencies using the package manager of your choice.
 2. Configuration: Configure the database connection, authentication, and API keys in the appropriate configuration files.
-3. Install the dependencies for the Next.js app by running '''npm install''' in the terminal.
+3. Install the dependencies for the Next.js app by running ```npm install``` in the terminal.
 4. Install the dependencies for the Flask server by running pip install -r requirements.txt in the terminal.
 5. Start the Flask server by moving to recommender file and running python app.py in the terminal
 6. Start the Next.js app by running npm run dev in the terminal.
